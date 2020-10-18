@@ -1,4 +1,4 @@
-# Predicting-House-prices
+# Predicting House prices
 
 Predicting house prices using Linear Regression 
 
